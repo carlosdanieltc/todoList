@@ -1,0 +1,14 @@
+body{
+    padding: 20px;
+}
+
+button{
+    margin-right: 10px;
+}
+
+html , body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+    padding: 20px;
+}
+
